@@ -1,0 +1,11 @@
+- test de compilation : cmd make
+- noms d'équipe + description, dans readme
+- comp.ml : exemples de test
+- lang.ml : types cps
+- instrs.ml : types postscripts
+- interf.ml : fonctions Ocaml
+- typing.ml : exo 4 (à remplir)
+- gen.ml : exo 7 (à remplir)
+- use.ml : à utiliser après make
+- Tests/rectangles.c : figure du rectangle
+- exo 3 (expr = fonctions, genre avec return, et com = procédures)
